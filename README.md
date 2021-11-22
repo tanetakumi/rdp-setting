@@ -45,7 +45,8 @@ windows remote desktop settings for high speed
     ![image](https://user-images.githubusercontent.com/75787495/142797239-19cf9a4c-2c28-4d59-98cc-136795d3ab27.png)
     
 ## クライアント側の設定
-    ![image](https://user-images.githubusercontent.com/75787495/142797532-3af24226-7332-45c3-a307-cd54d6a8378a.png)
+
+![image](https://user-images.githubusercontent.com/75787495/142797532-3af24226-7332-45c3-a307-cd54d6a8378a.png)
 
 
 
