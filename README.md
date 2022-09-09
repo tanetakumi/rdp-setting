@@ -1,6 +1,10 @@
-# rdp-speedup-setting
-windows remote desktop settings for high speed
+# rdp-setting
+windows remote desktop settings
 
+##Purpose
+- Accelerated response time
+- Using a JIS keyboard
+- Setup in a Japanese environment easily
 
 ## ホスト側の設定
 グループポリシーの設定より
