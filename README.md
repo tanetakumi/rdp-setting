@@ -1,7 +1,8 @@
 # rdp-setting
 windows remote desktop settings
 
-##Purpose
+## Purpose
+
 - Accelerated response time
 - Using a JIS keyboard
 - Setup in a Japanese environment easily
